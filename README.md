@@ -65,18 +65,20 @@ Sou uma profissional orientada a dados, apaixonada por transformar informações
 
 ## 🌟 Projetos em Destaque
 
-- [Data Visualization](https://github.com/MariarpSaraiva/dataVisualization): Dashboards interativos e análise avançada de dados.  
+- [Analise-imigrantes-canada](https://github.com/MariarpSaraiva/Analise-imigrantes-canada): Análise detalhada sobre imigração para o Canadá.  
+  
 - [PortalAluno](https://github.com/MariarpSaraiva/PortalAluno): Portal do aluno com recursos orientados a dados.  
 - [RetroBurguer](https://github.com/MariarpSaraiva/RetroBurguer): Protótipo full-stack para hamburgueria temática retrô.  
-- [curriculo-innit](https://github.com/MariarpSaraiva/curriculo-innit): Currículo interativo com tecnologias web.  
-- [projetinhoAlura](https://github.com/MariarpSaraiva/projetinhoAlura): Projetos práticos em BI e automação de dados.  
+
+- [Treino-html-css-js](https://github.com/MariarpSaraiva/projetinhoAlura): Projetos práticos em BI e automação de dados.  
+
 
 ---
 
 ## 🌐 Idiomas
 
-- 🇧🇷 Português (Nativo)  
-- 🇬🇧 Inglês (Avançado)  
+- Português (Nativo)  
+- Inglês (Avançado)  
 
 ---
 
