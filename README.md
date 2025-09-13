@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Maria Rita Saraiva!
+# 👋 Olá, eu sou Maria Saraiva!
 
 ## 🚀 Sobre mim
 
