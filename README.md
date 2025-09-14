@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Maria Saraiva!
+#  Olá, eu sou Maria Saraiva!
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou uma profissional orientada a dados, apaixonada por transformar informações em insights acionáveis e automações inteligentes. Tenho como objetivo aplicar e aprofundar meus conhecimentos em Python, SQL, BI e Inteligência Artificial, atuando em projetos de maior complexidade e impacto para otimizar processos e apoiar decisões estratégicas.
 
