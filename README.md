@@ -61,20 +61,6 @@ Sou uma profissional orientada a dados, apaixonada por transformar informações
 **D'Paula Distribuidora — Administradora de Loja (Mai/2020–Nov/2023)**  
 - Liderança de equipe, compras, estoque, finanças e operações  
 
----
-
-## 🌟 Projetos em Destaque
-
-- [Analise-imigrantes-canada](https://github.com/MariarpSaraiva/Analise-imigrantes-canada): Análise detalhada sobre imigração para o Canadá.  
-  
-- [PortalAluno](https://github.com/MariarpSaraiva/PortalAluno): Portal do aluno com recursos orientados a dados.  
-- [RetroBurguer](https://github.com/MariarpSaraiva/RetroBurguer): Protótipo full-stack para hamburgueria temática retrô.  
-
-- [Treino-html-css-js](https://github.com/MariarpSaraiva/projetinhoAlura): Projetos práticos em BI e automação de dados.  
-
-
----
-
 ## 🌐 Idiomas
 
 - Português (Nativo)  
