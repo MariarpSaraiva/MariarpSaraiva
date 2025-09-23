@@ -31,6 +31,7 @@ Sou uma profissional orientada a dados, apaixonada por transformar informações
 
 ## 🏆 Certificações
 
+- [**Formação Power BI** (Alura, 2025)](https://cursos.alura.com.br/degree/certificate/5f1ca172-6fd7-4c6a-972f-38e5f6f9a228)  
 - [**Google Cloud Essentials** (Google, 2025)](https://www.cloudskillsboost.google/public_profiles/2ef4a038-7174-4fc2-928f-51642917582d/badges/16580757)  
 - [**Engenharia de Prompt: criando prompts eficazes para IA Generativa** (Alura, 2025)](https://cursos.alura.com.br/certificate/8049b6ba-9139-47e0-a0f8-ff6312f0114e?lang)  
 - [**AI Security Fundamentals** (Databricks, 2025)](https://credentials.databricks.com/b1413d14-d423-4b05-8cb0-b7c745107693#acc.0dbgqs45)  
@@ -39,7 +40,6 @@ Sou uma profissional orientada a dados, apaixonada por transformar informações
 - [**Python para Data Science** (Alura, 2025)](https://cursos.alura.com.br/certificate/e3723723-39ef-4ff6-b1f9-1062c1e847f7?lang)  
 - [**SQL para Análise de Dados** (Udemy, 2024)](https://www.udemy.com/certificate/UC-5ee62fc0-61d7-4fd0-9d36-050a2fdf8305/)  
 
----
 
 ## 👔 Experiência Profissional
 
